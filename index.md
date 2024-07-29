@@ -13,3 +13,6 @@
 ``` javascript
 var myVar = "I like local flowers";
 ```
+
+- [x] Do an exercise on TYping Club
+- [ ] Study
